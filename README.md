@@ -1,6 +1,6 @@
 # AviaTickets
 
- Start App
+## `Start App`
 Clone repo, install, cd into folder:
 
 ### `npm install`
