@@ -1,5 +1,10 @@
 # AviaTickets
 
+# Start App
+Clone repo, install, cd into folder:
+```git
+npm install
+```
 In the project directory, you can run:
 
 ### `npm run dev`
